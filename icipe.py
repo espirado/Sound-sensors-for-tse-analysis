@@ -2,8 +2,6 @@
 
 # Script for recording audio files using i2s sound sensor connected to a Raspberry Pi
 #
-# Author Bob Afwata <bobraphtoneafwata@gamil.com>
-# Created 24 Jan 2013
 # Usage: run from CRON every 10 minutes
 
 import pyaudio
